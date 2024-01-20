@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <form action="">
+        <label for="">Enter a name : </label>
+        <input id="text1" type="text" aria-placeholder="enter anything" value="abc">
+        <label for="">Enter a password : </label>
+        <input id="text2" type="password" >
+        <br><br>
+        <button>Click me</button>
+    </form>
+</body>
+</html>
